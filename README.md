@@ -84,7 +84,5 @@ Build a scalable, modular AI project ready for further development.
 
 
 
-&nbsp;
-
 
 
